@@ -11,7 +11,6 @@
           "leading_diamond": "\ue0b6",
           "foreground": "#ffffff",
           "background": "#9d86f1",
-          "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}}",
           "type": "os"
         },
         {
