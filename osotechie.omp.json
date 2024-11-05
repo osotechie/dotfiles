@@ -16,7 +16,7 @@
         {
           "style": "diamond",
           "trailing_diamond": "\ue0b0",
-          "template": " {{ if .SSHSession }}\ueba9 {{ end }}{{ .UserName }}@{{ .HostName }} ",
+          "template": "{{ if .SSHSession }}\ueba9 {{ end }}{{ .UserName }}@{{ .HostName }} ",
           "foreground": "#ffffff",
           "background": "#9d86f1",
           "type": "session"
